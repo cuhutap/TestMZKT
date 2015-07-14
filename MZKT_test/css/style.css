@@ -1,0 +1,41 @@
+body{
+	background-color: #eee;
+	padding: 0px;
+	margin: 0px;	
+}
+nav{
+	margin: 0px;
+	padding: 0px;
+	height: 50px;
+	background-color: #555;
+	text-align: center;
+}
+nav ul{
+	float: left;
+	text-decoration: none;
+}
+nav ul li{
+	float: left;
+	text-decoration: none;
+	list-style-type: none;
+	padding-left: 10px;
+	color: #fff;
+}
+li a{
+	color: #fff
+}
+.SubMenu a{
+	color: #222;
+}
+table{
+	border-width: 2px;
+	border-color: #111;
+}
+tr{	
+	border-width: 2px;
+	border-color: #111;
+}
+td{
+	border-width: 2px;
+	border-color: #111;
+}
